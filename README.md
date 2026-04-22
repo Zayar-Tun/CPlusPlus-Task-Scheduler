@@ -55,8 +55,10 @@ The program also checks for cyclic dependencies and prevents scheduling tasks th
 - `Queue.h` — queue implementation
 - `PriorityQueue.h` — priority queue implementation
 - `README.md` — project documentation
+- `tasks_large.txt` — sample input file for testing load and scheduling features
 
 ## How to Compile and Run
+Use `tasks_large.txt` to test the file loading feature.
 Compile the program using a C++ compiler such as `g++`.
 
 Example:
